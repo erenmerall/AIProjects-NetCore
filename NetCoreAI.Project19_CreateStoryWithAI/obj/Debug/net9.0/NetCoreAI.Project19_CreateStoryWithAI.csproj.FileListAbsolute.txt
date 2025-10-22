@@ -1,0 +1,14 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\refint\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\ref\NetCoreAI.Project19_CreateStoryWithAI.dll
