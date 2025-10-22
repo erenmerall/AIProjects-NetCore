@@ -1,0 +1,17 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\refint\NetCoreAI.Project3_RapidApi.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\ref\NetCoreAI.Project3_RapidApi.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.csproj.AssemblyReference.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreA.D55B1F81.Up2Date
