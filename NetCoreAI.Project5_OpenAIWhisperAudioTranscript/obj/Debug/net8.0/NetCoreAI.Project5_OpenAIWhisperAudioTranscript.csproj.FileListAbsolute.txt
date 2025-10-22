@@ -1,0 +1,14 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\bin\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\refint\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project5_OpenAIWhisperAudioTranscript\obj\Debug\net8.0\ref\NetCoreAI.Project5_OpenAIWhisperAudioTranscript.dll

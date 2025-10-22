@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project5_OpenAIWhisperAudioTranscript", "NetCoreAI.Project5_OpenAIWhisperAudioTranscript.csproj", "{090B6716-38A2-4C9C-B943-38881C7C6B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090B6716-38A2-4C9C-B943-38881C7C6B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090B6716-38A2-4C9C-B943-38881C7C6B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090B6716-38A2-4C9C-B943-38881C7C6B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090B6716-38A2-4C9C-B943-38881C7C6B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05439C19-9A8B-4775-8497-A648CA762BE7}
+	EndGlobalSection
+EndGlobal
