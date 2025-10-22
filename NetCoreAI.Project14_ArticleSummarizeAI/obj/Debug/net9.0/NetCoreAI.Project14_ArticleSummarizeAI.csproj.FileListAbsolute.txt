@@ -1,0 +1,17 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.csproj.AssemblyReference.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreA.C70F170E.Up2Date
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\refint\NetCoreAI.Project14_ArticleSummarizeAI.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project14_ArticleSummarizeAI.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project14_ArticleSummarizeAI\obj\Debug\net9.0\ref\NetCoreAI.Project14_ArticleSummarizeAI.dll
