@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJ2KVtIfeNA=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\NetCoreAI\\NetCoreAI.Project13_SentimentWithDegreeAIApp\\NetCoreAI.Project13_SentimentWithDegreeAIApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erenm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

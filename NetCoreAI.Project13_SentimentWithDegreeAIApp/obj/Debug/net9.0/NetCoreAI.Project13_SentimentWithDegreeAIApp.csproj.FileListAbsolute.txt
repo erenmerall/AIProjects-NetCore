@@ -1,0 +1,17 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.csproj.AssemblyReference.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreA.CAAA60C7.Up2Date
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\refint\NetCoreAI.Project13_SentimentWithDegreeAIApp.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\NetCoreAI.Project13_SentimentWithDegreeAIApp.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\ref\NetCoreAI.Project13_SentimentWithDegreeAIApp.dll
