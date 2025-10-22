@@ -1,0 +1,17 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.csproj.AssemblyReference.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreA.3F602BB3.Up2Date
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\refint\NetCoreAI.Project9_OpenAITranslate.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\NetCoreAI.Project9_OpenAITranslate.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project9_OpenAITranslate\obj\Debug\net8.0\ref\NetCoreAI.Project9_OpenAITranslate.dll
