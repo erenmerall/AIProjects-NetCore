@@ -1,0 +1,17 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.csproj.AssemblyReference.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\bin\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\bin\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\bin\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\bin\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\bin\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreA.187F1CCD.Up2Date
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\refint\NetCoreAI.Project12_SentimentAIApp.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\NetCoreAI.Project12_SentimentAIApp.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project12_SentimentAIApp\obj\Debug\net9.0\ref\NetCoreAI.Project12_SentimentAIApp.dll
