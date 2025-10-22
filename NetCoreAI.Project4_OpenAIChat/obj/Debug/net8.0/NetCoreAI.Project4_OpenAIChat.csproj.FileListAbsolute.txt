@@ -1,0 +1,14 @@
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.AssemblyInfoInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.AssemblyInfo.cs
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.csproj.CoreCompileInputs.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.exe
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.deps.json
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.runtimeconfig.json
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\refint\NetCoreAI.Project4_OpenAIChat.dll
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.pdb
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project4_OpenAIChat.genruntimeconfig.cache
+C:\Projects\NetCoreAI\NetCoreAI.Project4_OpenAIChat\obj\Debug\net8.0\ref\NetCoreAI.Project4_OpenAIChat.dll
